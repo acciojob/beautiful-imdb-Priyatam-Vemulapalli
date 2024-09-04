@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+
+.div{
+	background-color:#200010;
+	display:flex;
+	justify-content:space-between;
+}
+.movieDetail{
+	position:center;
+	color:white;
+	text-align: center;
+	margin-right:20px;
+	display:center;
+	position: center;
+	font-size:1.2rem;
+	top: 500px;
+}
+.moviePic{
+	margin-top:20px;
+	border-radius:10px;
+	margin-left:20px;
+	margin-right:20px;
+	margin-bottom:20px;
+	height:400px;
+	width:280px;
+	opacity:85%;
+}
